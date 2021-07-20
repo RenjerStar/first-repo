@@ -1,6 +1,0 @@
-print("hi i am mahdi")
-
-
-
-
-print("goodbye")
